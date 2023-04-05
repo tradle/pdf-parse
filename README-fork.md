@@ -5,4 +5,4 @@ This is my forked repository of the original repository at
 
 Original Contributors:
 
-[Mehmet Kozan]{https://github.com/mehmet-kozan}
+[Mehmet Kozan](https://github.com/mehmet-kozan)
