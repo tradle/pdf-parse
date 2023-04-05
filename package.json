@@ -29,7 +29,6 @@
         "mocha": "^4.0.1"
     },
     "scripts": {
-        "test": "node node_modules/mocha/bin/_mocha --recursive --slow 10000",
         "start": "node index.js"
     },
     "homepage": "https://gitlab.com/autokent/pdf-parse",
