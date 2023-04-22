@@ -1,5 +1,7 @@
 # pdf-parse
 
+_This is the forked repository from [pdf-parse](https://gitlab.com/autokent/pdf-parse)._
+
 **Pure javascript cross-platform module to extract texts from PDFs.**
 
 [![version](https://img.shields.io/npm/v/pdf-parse.svg)](https://www.npmjs.org/package/pdf-parse)
